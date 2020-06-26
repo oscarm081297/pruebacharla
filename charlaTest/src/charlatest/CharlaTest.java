@@ -16,9 +16,12 @@ public class CharlaTest {
      */
     public static void main(String[] args) {
         
-        String s1 = "Hola";
-        String s2 = "Mundo";
+        String s1 = "HolaMundo";
+        String s2 = "MundoMundo";
         String s3 = "!!!";
+        String s4 = "Hola2";
+        String s5 = "Mundo2";
+        String s6 = "!!!2";
         
         System.out.println(s1+s2+s3);
         
