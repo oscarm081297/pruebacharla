@@ -17,8 +17,10 @@ public class CharlaTest {
     public static void main(String[] args) {
         
         String s1 = "Hola";
+        String s2 = "Mundo";
+        String s3 = "!!!";
         
-        System.out.println(s1);
+        System.out.println(s1+s2+s3);
         
     }
     
