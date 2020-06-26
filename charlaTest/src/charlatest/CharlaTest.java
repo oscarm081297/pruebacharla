@@ -25,6 +25,12 @@ public class CharlaTest {
         
         System.out.println(s1+s2+s3);
         
+        for(int i = 0; i<=10;i++){
+        
+            System.out.println(i);
+            
+        }
+        
     }
     
 }
